@@ -10,9 +10,9 @@ export const pabloAvilesPrieto = {
   location: 'A Coruña, Galicia, Spain',
   role: 'Full-Stack',
   code: [JavaScript, TypeScript, HTML5, CSS3, SASS, MySQL, NoSQL],
-  tools: [ReactJS, NodeJS, Tailwind, Jest, Cypress, Playwright],
+  tools: [ReactJS, NextJS, Remix, NodeJS, Tailwind, Jest, Cypress, Playwright],
   contact: 'pablo.aviles.prieto@gmail.com',
-  website: 'www.pabloaviles.es'
+  website: 'www.pabloaviles.dev'
 };
 ```
 
@@ -47,6 +47,6 @@ export const pabloAvilesPrieto = {
 
 <div align="center">
 <a href="https://www.linkedin.com/in/pablo-aviles-prieto/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin profile" width="50" height="50"/></a>
-<a href="https://www.pabloaviles.es" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/295998/browser-website.svg" alt="personal portfolio" width="50" height="50"/></a>
+<a href="https://www.pabloaviles.dev" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/295998/browser-website.svg" alt="personal portfolio" width="50" height="50"/></a>
 <a href="mailto:pablo.aviles.prieto@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="personal mail" width="50" height="50"/></a>
 </div>
