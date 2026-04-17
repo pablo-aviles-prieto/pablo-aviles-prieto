@@ -20,18 +20,9 @@ export const pabloAvilesPrieto = {
 
 <p align="center">
   <a href="https://www.pabloaviles.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,sass,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,php,html,css,mysql,mongodb,git,vitest,playwright,sass,tailwind" />
   </a>
 </p>
-
-
-## 🤖 Tech stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,php,html,css,mysql,mongodb,git,vitest,playwright,sass,tailwind)](https://www.pabloaviles.dev)
-
-</div>
 
 
 ## 📈 GitHub Stats
