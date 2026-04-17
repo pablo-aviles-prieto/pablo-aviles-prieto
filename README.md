@@ -19,7 +19,9 @@ export const pabloAvilesPrieto = {
 ## 🤖 Tech stack
 
 <div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,php,html,css,mysql,mongodb,git,vitest,playwright,sass,tailwind)](https://skillicons.dev)
+
 </div>
 
 ## 🤖 Tech stack
