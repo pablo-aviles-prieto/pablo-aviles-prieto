@@ -20,7 +20,7 @@ export const pabloAvilesPrieto = {
 
 <p align="center">
   <a href="https://www.pabloaviles.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,php,html,css,mysql,mongodb,git,vitest,playwright,sass,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,sass,tailwind" />
   </a>
 </p>
 
