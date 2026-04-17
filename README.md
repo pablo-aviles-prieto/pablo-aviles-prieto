@@ -18,9 +18,18 @@ export const pabloAvilesPrieto = {
 
 ## 🤖 Tech stack
 
+<p align="center">
+  <a href="https://www.pabloaviles.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,php,html,css,mysql,mongodb,git,vitest,playwright,sass,tailwind)" />
+  </a>
+</p>
+
+
+## 🤖 Tech stack
+
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,php,html,css,mysql,mongodb,git,vitest,playwright,sass,tailwind)](https://pabloaviles.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,php,html,css,mysql,mongodb,git,vitest,playwright,sass,tailwind)](https://www.pabloaviles.dev)
 
 </div>
 
