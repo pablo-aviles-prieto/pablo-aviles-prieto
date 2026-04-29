@@ -8,7 +8,7 @@
 export const pabloAvilesPrieto = {
   name: 'Pablo Avilés Prieto',
   location: 'A Coruña, Galicia, Spain',
-  role: 'Full-Stack',
+  roles: ['Frontend', 'Full-Stack'],
   code: [JavaScript, TypeScript, HTML5, CSS3, SASS, MySQL, NoSQL],
   tools: [ReactJS, NextJS, Remix, NodeJS, Vite, Tailwind, Vitest, Jest, Cypress, Playwright],
   contact: 'pablo.aviles.prieto@gmail.com',
