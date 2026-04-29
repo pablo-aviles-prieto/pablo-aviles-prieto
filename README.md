@@ -1,5 +1,5 @@
 <h2 align="center">Hey there 🤗 I'm Pablo Avilés Prieto</h2>
-<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&pause=1000&repeat=false&color=B6B6B6&center=true&width=460&vCenter=true&lines=Full-Stack+developer,+better+person+😊+">
+<p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Jetbrains&pause=1000&repeat=false&color=B6B6B6&center=true&width=460&vCenter=true&lines=Senior+Frontend+Engineer">
 </p>
 
 ## 💻 About me </>
