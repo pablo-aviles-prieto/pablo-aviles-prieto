@@ -34,8 +34,14 @@ export const pabloAvilesPrieto = {
 
 ## 📝 Reach me out
 
-<div align="center">
-<a href="https://www.linkedin.com/in/pablo-aviles-prieto/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin profile" width="50" height="50"/></a>
-<a href="https://www.pabloaviles.dev" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/295998/browser-website.svg" alt="personal portfolio" width="50" height="50"/></a>
-<a href="mailto:pablo.aviles.prieto@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="personal mail" width="50" height="50"/></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablo-aviles-prieto/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
+  </a>
+  <a href="https://www.pabloaviles.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/295998/browser-website.svg" width="50" height="50"/>
+  </a>
+  <a href="mailto:pablo.aviles.prieto@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" width="50" height="50"/>
+  </a>
+</p>
